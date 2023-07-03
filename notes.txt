@@ -1,0 +1,4 @@
+Redux para: 
+ - categoria seleccionada
+ - producto seleccionado
+El carrito, acciones de cambio de perfil y en carrito se manda al servidor
